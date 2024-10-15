@@ -1,6 +1,3 @@
 Oi, teste
 
-<<<<<<< HEAD
-=======
-Texto a ser adicionado Branch Dev.
->>>>>>> 24e68ef56ceed151dd22f866bb65e651d75084d6
+Branch Main.
